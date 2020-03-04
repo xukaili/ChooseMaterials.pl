@@ -4,6 +4,13 @@ This script was written for picking the choosed samples by calculate the percent
 
 ## License
 Academic users may download and use the application free of charge according to the accompanying license. Commercial users must obtain a commercial license from Xukai Li. If you have used the program to obtain results, please cite the following paper:</br></br>
-> 李旭凯，郭凯，彭良才，王令强*. ChooseMaterials.pl, 控制变量挑选实验材料的perl脚本. 生物信息学, 2013, 11(3):186-191</br>
-> https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=XXSW201303005&v=Mjk2MzFtRnluaFc3cklQVFhZZWJHNEg5TE1ySTlGWVlSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZWQ=</br>
+> 李旭凯，郭凯，彭良才，王令强*. ChooseMaterials.pl, 控制变量挑选实验材料的perl脚本. 生物信息学, 2013, 11(3):186-191</br></br>
+> https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=XXSW201303005&v=Mjk2MzFtRnluaFc3cklQVFhZZWJHNEg5TE1ySTlGWVlSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZWQ=</br></br>
+
+## Getting started
+Put __`CandiHap.pl`__ and Phenotype.txt files in a same dir, then run:</br>
+```
+     perl  ChooseMaterials.pl  <infile.txt>  <outfile.txt>
+e.g. perl  ChooseMaterials.pl  
+```
 </br>
