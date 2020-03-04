@@ -8,9 +8,9 @@ Academic users may download and use the application free of charge according to 
 > https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=XXSW201303005&v=Mjk2MzFtRnluaFc3cklQVFhZZWJHNEg5TE1ySTlGWVlSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZWQ=</br></br>
 
 ## Getting started
-Put __`CandiHap.pl`__ and Phenotype.txt files in a same dir, then run:</br>
+Put __`ChooseMaterials.pl`__ and infile.txt file in a same dir, then run:</br>
 ```
      perl  ChooseMaterials.pl  <infile.txt>  <outfile.txt>
-e.g. perl  ChooseMaterials.pl  
+e.g. perl  ChooseMaterials.pl   infile.txt    outfile.txt
 ```
 </br>
